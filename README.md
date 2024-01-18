@@ -23,7 +23,7 @@ Esta aplicación de Windows Forms permite a los usuarios generar contraseñas al
 
 ## Capturas de Pantalla
 
-![Generador de Contraseñas](screenshot.png)
+![Generador de Contraseñas](https://i.imgur.com/f83NLr0.png)
 
 ## Dependencias
 
